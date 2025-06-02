@@ -1,6 +1,6 @@
 # Bem-vindo ao Perfil Oficial da Alest no GitHub!
 
-Olá! Sou Eduardo Pereira dos Santos, representando a **Alest**. Somos focados em fornecer soluções de software robustas e automações inteligentes para o ambiente corporativo.
+Olá! Sou Eduardo Pereira dos Santos, um dos desenvolvedores da **Alest**. Somos focados em fornecer soluções de software robustas e automações inteligentes para o ambiente corporativo.
 
 Acreditamos que a tecnologia é a chave para otimizar processos, aumentar a eficiência e impulsionar o crescimento de negócios. Nosso compromisso é com a entrega de código de alta qualidade, escalável e alinhado com as melhores práticas do mercado – o que chamamos de *Enterprise Vibe Coding*.
 
@@ -44,10 +44,9 @@ Quando se trata de **automações**, nosso objetivo é simplificar o complexo. A
 
 Estamos sempre abertos a discutir novos desafios e como a Alest pode ajudar sua empresa a alcançar seus objetivos tecnológicos.
 
-* **Entre em contato:** `[Seu E-mail Comercial da Alest]`
-* **Visite nosso site (se houver):** `[Link para o Site da Alest]`
-* **LinkedIn (Empresa ou seu perfil profissional):** `[Link para o LinkedIn]`
+* **Entre em contato:** `[eduardo.pereira@alest.com.br]`
+* **Visite nosso site (se houver):** `[https://alest.com.br]`
 
-Obrigado por visitar nosso perfil!
+Obrigado por visitar meu perfil!
 
 ---
