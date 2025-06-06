@@ -1,4 +1,4 @@
-# Bem-vindo ao Perfil Oficial da Alest no GitHub!
+# Bem-vindo ao Perfil Oficial do EduAlest no GitHub!
 
 Olá! Sou Eduardo Pereira dos Santos, um dos desenvolvedores da **Alest**. Somos focados em fornecer soluções de software robustas e automações inteligentes para o ambiente corporativo.
 
